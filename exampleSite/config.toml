@@ -56,11 +56,6 @@ name = "news"
 url = "#blog"
 weight = 6
 
-[[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
-
 ################### Croatian Navigation ########################
 [[Languages.hr.menu.main]]
 name = "about"
@@ -76,11 +71,6 @@ weight = 4
 name = "news"
 url = "#blog"
 weight = 6
-
-[[Languages.hr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
 
 ############################# Default Parameters ##########################
 [params]
