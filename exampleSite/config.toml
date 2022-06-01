@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-title = "Meghna"
+title = "Istraživački Centar Mladih"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -207,7 +207,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 
 ################################ Croatian Language ########################
 [Languages.hr]
-languageName = "hr"
+languageName = "Hr"
 languageCode = "hr-hr"
 contentDir = "content/croatian"
 weight = 2
