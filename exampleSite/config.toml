@@ -52,7 +52,7 @@ url = "#team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "blog"
+name = "news"
 url = "#blog"
 weight = 6
 
@@ -73,7 +73,7 @@ url = "#team"
 weight = 4
 
 [[Languages.hr.menu.main]]
-name = "blog"
+name = "news"
 url = "#blog"
 weight = 6
 
