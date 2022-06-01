@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-title = "Istraživački Centar Mladih"
+title = "Istraživački Centar Mladih - Youth Research Center"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -47,26 +47,11 @@ url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
-
-[[Languages.en.menu.main]]
 name = "team"
 url = "#team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
@@ -76,55 +61,16 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-
-[[Languages.en.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
-
-
 ################### Croatian Navigation ########################
 [[Languages.hr.menu.main]]
-name = "sur"
+name = "about"
 url = "#about"
 weight = 1
 
 [[Languages.hr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-
-[[Languages.hr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
-
-[[Languages.hr.menu.main]]
-name = "équipe"
+name = "team"
 url = "#team"
 weight = 4
-
-[[Languages.hr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
 
 [[Languages.hr.menu.main]]
 name = "blog"
@@ -135,11 +81,6 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-
-[[Languages.hr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 
 ############################# Default Parameters ##########################
 [params]
