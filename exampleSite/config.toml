@@ -74,7 +74,7 @@ weight = 6
 
 ############################# Default Parameters ##########################
 [params]
-logo = "" #TODO: add logo
+logo = "images/logo.png" #TODO: add logo
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
