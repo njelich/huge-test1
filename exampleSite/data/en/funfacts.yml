@@ -7,19 +7,19 @@ funfacts:
     # counter item loop
     - title: "Pupils mentored"
       icon: "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count: "320"
+      count: "120"
 
     # counter item loop
     - title: "Workshops held"
       icon: "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count: "350"
+      count: "35"
 
     # counter item loop
     - title: "Active volunteers"
       icon: "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count: "158"
+      count: "53"
 
     # counter item loop
     - title: "Medals earned"
       icon: "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count: "250"
+      count: "23"

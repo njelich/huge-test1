@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: About Us
+  about_item:
+    - icon: ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+      title: All about science
+      content: Nearly all of our members, lecturers and others are studying natural sciences or math
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-cup # themify icon pack : https://themify.me/themify-icons
+      title: Consistent winners
+      content: Our pupils have scored major awards at xx% of IYNT and IYPT events we participated in
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-thought # themify icon pack : https://themify.me/themify-icons
+      title: Constantly innovating
+      content: In the over 10 years the org has existed, we've xxx yyy
