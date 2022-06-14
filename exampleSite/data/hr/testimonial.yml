@@ -1,26 +1,12 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name: Andrea Brzica
+      image: images/client/client-1.jpg
+      image_webp: images/client/client-1.webp
+      date: Oct 16, 2021
+      content: Sudjelovanje na Državnom turniru mladih fizičara za mene je bilo predobro iskustvo! Rješavanjem turnirskih problema koji su često svakodnevne pojave, shvatila sam koliko je uistinu fora opisivati svijet oko sebe poštujući zakone fizike. Pritom učiš i stječeš vještine koje bi trebao posjedovati pravi eksperimentalni fizičar, što posao čini još zanimljivijim. Prolaskom na Državnu razinu Turnira mladih fizičara, dobila sam priliku upoznati nove ljude, pošteno se naklopati i razglabati o fizici, svaki put s nekom novom spoznajom i saznanjem.

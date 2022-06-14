@@ -4,14 +4,14 @@ date: 2022-01-16T14:51:12+06:00
 image_webp: images/blog/rezultati-croynt-2022.webp
 image: images/blog/rezultati-croynt-2022.jpg
 author: Noah Jelich
-description: "This is meta description"
+description: "Results of the Croatian Young Naturalists Tournament 2022"
 ---
 
 On Sunday, January 16, 2022, the 8th Croatian Young Naturalists Tournament was held. Students who will have the opportunity to represent Croatia at the International Tournament have been selected.
 
 We thank everyone who participated in this competition. Congratulations to all students who presented their work at the CroYNT. They have shown that they have invested a lot of effort and we are glad that this competition attracts such great students every year. We wish everyone good luck in their future work and look forward to their success!
 
-| Natjecatelj           | Presenter | Opponent | Reporter | Total |
+| Competitor            | Presenter | Opponent | Reporter | Total |
 | --------------------- | --------- | -------- | -------- | ----- |
 | Ana Sabocanec         | 83.25     | 24       | 11.6     | 41.64 |
 | Ena Spoler            | 77.74     | 17.1     | 13.6     | 37.45 |

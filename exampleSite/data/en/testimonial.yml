@@ -1,26 +1,12 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name: Andrea Brzica
+      image: images/client/client-1.jpg
+      image_webp: images/client/client-1.webp
+      date: Oct 16, 2021
+      content: Participating in the National Tournament of Young Physicists was an unforgettable experience! Solving the IYPT problems (which are often physical phenomena that we come across during our everyday life),  I realized how cool it is to describe the world around us while respecting the laws of physics. In doing so, I acquired the skills that are vital for an experimental physicist to possess while still having fun. At the National Level of the Young Physicists Tournament, I got the opportunity to meet new people, eat pizza and talk about physics with the other participants and mentors, each time coming out of the conversation with some new knowledge and insights.
